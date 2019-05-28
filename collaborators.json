@@ -1,9 +1,7 @@
 [{"name":"André Britto de Carvalho", "lattes":"http://lattes.cnpq.br/9774818320067325", "link":"#", "description":" ", "image":"images/noimage.jpg"},
  {"name":"Alaine Margarete Guimarães", "lattes":"http://lattes.cnpq.br/4366472400277640","link":"#", "description":" ", "image":"images/noimage.jpg"},
- {"name":"Arion de Campos Júnior", "http://lattes.cnpq.br/0829505317241223","link":"#", "description":" ", "image":"images/noimage.jpg"},
- {"name":"Elias Procópio Duarte Júnior", "http://www.inf.ufpr.br/elias/","link":"#", "description":" ", "image":"images/noimage.jpg"},
- {"name":"Martin Alejandro Musicante", "http://www.dimap.ufrn.br/~mam/","link":"#", "description":" ", "image":"images/noimage.jpg"},
- {"name":"Richard Aderbal Gonçalves", "http://lattes.cnpq.br/4210531173050798","link":"#", "description":" ", "image":"images/noimage.jpg"},
- {"name":"Silvia Regina Vergilio", "http://www.inf.ufpr.br/silvia/","link":"#", "description":" ", "image":"images/noimage.jpg"}
-
-]
+ {"name":"Arion de Campos Júnior", "lattes":"http://lattes.cnpq.br/0829505317241223", "link":"#", "description":" ", "image":"images/noimage.jpg"},
+ {"name":"Elias Procópio Duarte Júnior", "lattes":"http://www.inf.ufpr.br/elias/","link":"#", "description":" ", "image":"images/noimage.jpg"},
+ {"name":"Martin Alejandro Musicante", "lattes":"http://www.dimap.ufrn.br/~mam/","link":"#", "description":" ", "image":"images/noimage.jpg"},
+ {"name":"Richard Aderbal Gonçalves", "lattes":"http://lattes.cnpq.br/4210531173050798","link":"#", "description":" ", "image":"images/noimage.jpg"},
+ {"name":"Silvia Regina Vergilio", "lattes":"http://www.inf.ufpr.br/silvia/","link":"#", "description":" ", "image":"images/noimage.jpg"}]
