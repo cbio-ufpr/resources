@@ -1,5 +1,5 @@
 [
- {"tipo":"phd", "name":"Alexander Fiabani", "lattes":"#", "link":"#", "description":" ", "image":"images/noimage.jpg"},	
+ {"tipo":"phd", "name":"Alexander Fiabane", "lattes":"http://lattes.cnpq.br/0518661748665957", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/fiabane.jpg"},	
  {"tipo":"phd", "name":"Augusto Dantas", "lattes":"http://lattes.cnpq.br/0225905310216592", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/augusto.jpeg"},
  {"tipo":"phd", "name":"Cristina Morimoto", "lattes":"http://lattes.cnpq.br/1135222065808922", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/cristina.jpeg"},
  {"tipo":"phd", "name":"Dimmy Magalhães", "lattes":"http://lattes.cnpq.br/9304356265096781", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/dimmy.jpeg"},
@@ -8,9 +8,9 @@
  {"tipo":"phd", "name":"Ricardo Lima", "lattes":"http://lattes.cnpq.br/3280997401818295", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/ricardo.jpeg"},
  {"tipo":"msc", "name":"Ana Silva", "lattes":"#", "link":"#", "description":" ", "image":"images/noimage.jpg"},	
  {"tipo":"msc", "name":"Adriano Kultzak", "lattes":"#", "link":"#", "description":" ", "image":"images/noimage.jpg"},	
- {"tipo":"msc", "name":"Bruno Mayer", "lattes":"http://lattes.cnpq.br/1467037655437965", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/bruno.jpeg"},
- {"tipo":"msc", "name":"Marcela Oliveira", "lattes":"#", "link":"#", "description":" ", "image":"images/noimage.jpg"},
- {"tipo":"ex", "name":"Andrei Strickler", "lattes":"http://lattes.cnpq.br/0715028202731138", "link":"#", "description":" ", "image":"images/noimage.jpg"},
+ {"tipo":"msc", "name":"Bruno Meyer", "lattes":"http://lattes.cnpq.br/1467037655437965", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/bruno.jpeg"},
+ {"tipo":"msc", "name":"Marcela Oliveira", "lattes":"http://lattes.cnpq.br/0231706639255368", "link":"#", "description":" ", "image":"images/noimage.jpg"},
+ {"tipo":"ex", "name":"Andrei Strickler", "lattes":"http://lattes.cnpq.br/0715028202731138", "link":"#", "description":" ", "image":"https://raw.githubusercontent.com/cbio-ufpr/resources/master/marcela.png"},
  {"tipo":"ex", "name":"Murilo Zangari", "lattes":"http://lattes.cnpq.br/2054919666653220", "link":"#", "description":" ", "image":"images/noimage.jpg"},
  {"tipo":"ex", "name":"Olacir Rodrigues Castro Júnior", "lattes":"http://lattes.cnpq.br/1893693615984125", "link":"#", "description":" ", "image":"images/noimage.jpg"}, 
  {"tipo":"ex", "name":"Vidal Fountoura", "lattes":"http://lattes.cnpq.br/0138023517065135", "link":"#", "description":" ", "image":"images/noimage.jpg"}]
